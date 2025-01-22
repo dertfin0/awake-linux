@@ -13,7 +13,7 @@ For correct installation you must have `curl` installed.
 
 Installation occurs automatically after entering this command:
 ```bash
-sudo wget -O - "https://raw.githubusercontent.com/Dertfin3051/awake-linux/remote-install/install.sh" | bash
+sudo wget -O - "https://raw.githubusercontent.com/dertfin0/awake-linux/remote-install/install.sh" | bash
 ```
 
 # How to run

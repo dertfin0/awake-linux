@@ -1,7 +1,7 @@
 from pyautogui import moveTo, position
 from time import sleep
 
-version = "1.2"
+version = "1.2.1"
 
 logo = f"""
 
@@ -30,4 +30,4 @@ if __name__ == '__main__':
     try:
         main()
     except KeyboardInterrupt:
-        exit(0)
+        print("")
