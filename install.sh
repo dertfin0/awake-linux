@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo curl -L -o awake "https://github.com/Dertfin3051/awake-linux/releases/download/1.2/awake-linux"
+sudo curl -L -o awake "https://github.com/dertfin0/awake-linux/releases/download/1.2/awake-linux"
 sudo chmod +x awake
 sudo mv -f awake /usr/local/bin/
 
